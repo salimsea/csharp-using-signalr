@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{31BA7383-28C4-4658-88D3-852C7EC85B02}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
+    <Files>
+      <File FileName="Startup.cs" Line="33" Column="18" />
+      <File FileName="Hubs/MessageHub.cs" Line="9" Column="10" />
+      <File FileName="Controllers/WebsController.cs" Line="16" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Test.SignalR" expanded="True">
+            <Node name="Test.SignalR" expanded="True" selected="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Hubs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Test.SignalR PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
